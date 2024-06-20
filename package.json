@@ -1,0 +1,25 @@
+{
+  "name": "use-simple-countdown",
+  "version": "1.0.0",
+  "description": "Un hook de React personalizado para temporizadores de cuenta regresiva.",
+  "main": "src/useCountdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarrios412/use-countdown.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "countdown",
+    "timer"
+  ],
+  "author": "Edgar Vilchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edgarrios412/use-countdown/issues"
+  },
+  "homepage": "https://github.com/edgarrios412/use-countdown#readme"
+}
